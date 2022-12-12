@@ -1,0 +1,21 @@
+body{
+	background-color: #abbcea;
+}
+.container{
+	width: 230px;
+	display: block;
+	margin: 0 auto ;
+	background-color: white;
+	text-align: center;
+	border: 5px;
+	padding-bottom:30px;
+	border-radius: 10px;
+}
+
+img{
+	width : 200px;
+	display: block;
+	padding: 10px;
+	margin: 0 auto;
+	border-radius: 20px;
+}
